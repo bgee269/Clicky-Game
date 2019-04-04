@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Gerald",
+    "image": "https://vignette.wikia.nocookie.net/heyarnold/images/9/9c/GeraldShow.png/revision/latest?cb=20181027162223",
+    "occupation": "Student",
+    "location": "NYC"
+  },
+  {
+    "id": 2,
+    "name": "Goku",
+    "image": "https://vignette1.wikia.nocookie.net/jadensadventures/images/7/79/Dragon_ball_goku_by_momosexes-d3ivq6v.png/revision/latest?cb=20130627194741",
+    "occupation": "Saiyan",
+    "location": "Everywhere"
+  },
+  {
+    "id": 3,
+    "name": "Arnold",
+    "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/6/67/Arnold_Shortman-2018.png/revision/latest?cb=20181225170445",
+    "occupation": "Student",
+    "location": "NYC"
+  },
+  {
+    "id": 4,
+    "name": "Deku",
+    "image": "https://vignette.wikia.nocookie.net/characterprofile/images/e/e1/Izuku_Midoriya%2C_the_Successor_to_All_Might.png/revision/latest?cb=20170801171151",
+    "occupation": "Hero",
+    "location": "MHA"
+  },
+  {
+    "id": 5,
+    "name": "Ash",
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/7a/Hoennash.png/revision/latest?cb=20110507193011",
+    "occupation": "Pokemon Catcher",
+    "location": "Palet Town"
+  },
+  {
+    "id": 6,
+    "name": "Pikachu",
+    "image": "https://vignette.wikia.nocookie.net/pokemon-revolution-online/images/0/0d/025Pikachu.png/revision/latest?cb=20160124202626",
+    "occupation": "Pokemon",
+    "location": "Palet Town"
+  },
+  {
+    "id": 7,
+    "name": "Profesor Oak",
+    "image": "https://vignette.wikia.nocookie.net/pokemon/images/c/c2/Professor_Oak.png/revision/latest?cb=20110215101635",
+    "occupation": "Teacher",
+    "location": "Palet Town"
+  },
+  {
+    "id": 8,
+    "name": "Squirtle",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/e/e3/Squirtle.png/revision/latest?cb=20141002083243&path-prefix=en",
+    "occupation": "Pokemon",
+    "location": "Palet Town"
+  },
+  {
+    "id": 9,
+    "name": "Chief Ohara",
+    "image": "https://i.pinimg.com/originals/44/c5/61/44c56113c76f108a1b138438d1bceb4c.png",
+    "occupation": "Chief",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Plankton",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/d/d3/Plankton_by_wombat7500-d417kmu.png/revision/latest?cb=20160116213318",
+    "occupation": "Owner",
+    "location": "Bakini Bottom"
+  },
+  {
+    "id": 11,
+    "name": "Sonic",
+    "image": "https://i.pinimg.com/originals/5f/52/8e/5f528e7e52257f60a812b93219c319ba.png",
+    "occupation": "Unknown",
+    "location": "Unknown"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
